@@ -1,2 +1,2 @@
 # DrawingFigure
-a gui app with tkinter of python
+This is a drawing software that uses the TK library in python
